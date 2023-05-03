@@ -25,7 +25,11 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-
+- Activity 19.23
+- Activity 19.25
+- Activity 19.19
+- https://www.npmjs.com/package/webpack-pwa-manifest
+- https://webpack.js.org/loaders/babel-loader/
 
 ## License
 
